@@ -8,7 +8,7 @@ To set up the project, follow these steps:
 
 1. Navigate to the project directory:
    ```bash
-   cd backend_api
+   cd fullstack-dev-takehome
    ```
 
 2. Install JSON Server globally:
