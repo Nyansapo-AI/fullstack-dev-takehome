@@ -1,4 +1,4 @@
-# Project Title
+# Assessment Backend
 
 ## Description
 This project uses JSON Server to create a simple REST API from a JSON file.
