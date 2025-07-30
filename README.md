@@ -27,6 +27,7 @@ Once the server is running, you can access the API at:
 - [http://localhost:3000/](http://localhost:3000/)
 
 ### Endpoints
-- [http://localhost:3000/assessments](http://localhost:3000/assessments)
+- [http://localhost:3000/class_profile](http://localhost:3000/class_profile)
+- [http://localhost:3000/students](http://localhost:3000/students)
 
 
